@@ -338,7 +338,7 @@ You can use templates to write READMEs, but templates sometimes lie. Thus:
     - Name your prerequisites.
     - List your installation steps.
     - Show that it works once.
-- **Engage** with the project. 
+- **Engage** with the project.
     - Where is the documentation?
     - Where do contributions go?
     - Where are the people?
@@ -355,3 +355,33 @@ You'll like <PROJECT NAME> because you can _____…
 You can use the README to set expectations for users and contributors.
 
 <https://github.com/nayafia/contributing-template>
+
+## [Continuous Annoyment: Brining More Zen to a Hectic Writing Environment](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-tana-franko)
+
+Speaker: [Tana Franko](https://twitter.com/tanafranko)
+
+Last year, Tana spoke about "Tina the tech writer" and brain aptitudes. Tana is Tina. She works at Cisco, and worked on a new Slack-like platform. The team was dealing with:
+
+- New tools
+- New processes
+- New projects
+- New people
+- etc etc
+
+She and her boss came up with a slogan to deal with so much newness: "More Zen!" This was to counter the state of "continuous annoyment," which was engendered by all the new stuff and what seemed like constant problems. Tana began thinking of "problems" as "challenges." This shifted the mindset to one of "continuous complexity."
+
+She thought of the challenge as a cycle of Execute <--> Create <--> Plan to make it more zen because: "zen is balance."
+
+Tana then tried to think of the cycle as "Think, Play, Grow (and Rest)." Or as "Want --> Nurture --> Notice"
+
+## Embed the Docs!
+
+Speaker: [Kristof Van Tomme](https://twitter.com/kvantomme)
+
+People don't read manuals and never really have. The problem is especially acute now because of people's shortened attention spans. Kristof feels that he is not learning products anymore, so much as just getting bite-sized pieces of information. Agile development practices make it harder to keep up with the product.
+
+Centralized manuals are no longer sufficient. Documentation is often most useful as a sales artifact because potential users evaulate the documentation before buying the product.
+
+Micro-copy is important because it helps guide users. Popups and tooltips are also important and useful. Guided tours and walkthroughs are other patterns that are useful. See <https://walkhub.com>. Yet another pattern that's helpful is help centers. See: <https://embedthedocs.com>
+
+Clippy, Kristof says, was a good idea poorly implemented. He wants to bring him back, but with AI. You could use marketing technology for documentation purposes. If you know a user is a developer, you can show them regular expressions; or, if the user is an editor, show them editorial-related content. 
