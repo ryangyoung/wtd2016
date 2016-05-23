@@ -275,4 +275,83 @@ GitHub incorporates marketing content into its onboarding screens. "Unlimited fr
 
 Content strategy scaling is similar to technical documentation scaling. You need to work with different teams across the company. This usually involves breaking down silos.
 
-To internationalize your content, use fewer words and make sure the words you use aren't colloquial. 
+To internationalize your content, use fewer words and make sure the words you use aren't colloquial.
+
+## [write_the_readable_README.txt](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-daniel-beck)
+
+Speaker: [Daniel Beck](https://twitter.com/ddbeck)
+
+Daniel writes a lot of READMEs, many of them for open source projects. He read READMEs for >200 GitHub projects and asked himself:
+
+About context:
+
+- What kind of project is it?
+
+- What other files accompany the README? Authors, license, contributing, etc.
+
+- What markup does the README use? MD, rST, etc.
+
+About content:
+
+- What topics does the file cover?
+
+- What links does the file have?
+
+- What images does the file have?
+
+About his perception:
+
+- Why does the README appeal to him?
+
+What was a bad README?
+
+17% didn't include the project's name.
+
+31% didn't describe what the project was or did.
+
+46% didn't include links to the project repo or state what the official version was.
+
+- README quality varies.
+
+- There are few conventions.
+
+- READMEs miss a lot of information.
+
+### The README Renaissance
+
+The oldest file Daniel found was from 1970. GitHub, BitBucket, etc are ushering in a "golden age" of READMEs because they are somewhat enforced, at least with GitHub.
+
+The best READMEs built his confidence in the project by following some guidelines, namely each file:
+
+- Identify the project.
+- Evaluate the project.
+- Use the project (once).
+- Link to other information.
+
+You can use templates to write READMEs, but templates sometimes lie. Thus:
+
+<https://github.com/ddbeck/readme-checklist>
+
+- **Identify** the project.
+- **Evaluate** the project.
+- **Use** the project (once).
+    - Name your prerequisites.
+    - List your installation steps.
+    - Show that it works once.
+- **Engage** with the project. 
+    - Where is the documentation?
+    - Where do contributions go?
+    - Where are the people?
+
+You can use Mad Libs as template:
+
+"With <PROJECT NAME> you can <VERB> <PLURAL NOUN>…
+<PROJECT NAME> helps you _____…
+If you use <PROJECT NAME> then you _____…
+You'll like <PROJECT NAME> because you can _____…
+<PROJECT NAME> is better than <ALTERNATIVE PROJECT> because you can _____…
+<PROJECT NAME> is related to <OTHER PROJECT> because _____…."
+
+You can use the README to set expectations for users and contributors.
+
+<https://github.com/nayafia/contributing-template>
