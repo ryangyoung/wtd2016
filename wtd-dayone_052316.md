@@ -126,4 +126,108 @@ About you:
 
 - Terminology (what words mean in the API)
 
-- Tutorials are also important. Especially for authentication, because OAuth is hard. 
+- Tutorials are also important. Especially for authentication, because OAuth is hard.
+
+- References are important. Descriptions of request and response fields are *very* important.
+
+### API Documentation Tools
+
+MongoDB uses Sphinx, which builds PDF, HTML, ePub and more.
+
+Slate is another tool that might be useful. It's what Stripe uses. Has a Markdown backbone.
+
+You *can* use Flare for API docs, but it's far from ideal.
+
+## [Crossing the Streams: Enabling Collaboration Between Products and Upstreams](Crossing the Streams: Enabling Collaboration Between Products and Upstreams)
+
+Speaker: [Shaun McCance](https://twitter.com/shaunm), RedHat
+
+Shaun got his start with the Gnome project. He noticed that each Linux distro had a slightly different version of Gnome that had been tweaked by the different maintainers. For example, Fedora might have added a date and time config. He needed a way to develop a global help system that accounted for all these different versions. The solution was Project Mallard. It allowed the team to create a help system from a disparate set of topics.
+
+All of RedHat's products are built from open source projects. They focus on the upstream first, meaning that they modify at the source.
+
+Shaun:
+
+- Makes upstream, open source docs great.
+
+- Builds docs communities around upstream.
+
+- Makes upstream docs reusable by downstream. This is friendly for downstream developers.
+
+### What are all these streams?
+
+- RedHat Gluster storage is a downstream from the gluster project.
+
+- RedHat OpenStack Platform is a downstream of ~dozen open-source projects, including Glance, Horizon, Swift, Neutron, Heat, Nova, Trove, Cinder, Ironic, Keystone. RH created the RDO project for packaging and integration, which is the immediate upstream of the enterprise product. OpenStack is an upstream of RDO, and all the other listed projects are upstreams of OpenStack. They all need documentation.
+
+- Fedora is another upstream, from RHEL and CentOS. These streams go both ways, from Fedora to RHEL, to CentOS, and then back to Fedora and some upstreams.
+
+### Thinking in Topics
+
+Shaun's advice on how to manage all these interdependent streams—up, down, side, left, and right—is: Stop Writing Books. Start writing Topics. And thining in Topics:
+
+- Write only what's necessary
+
+- Be upfront about required background.
+
+- Cross-link to other topics.
+
+- Do not  expect a linear reading.
+
+-  Every page is page one.
+
+### Types of Topics
+
+There are different types, but it's not necessary to
+
+### How Product teams can Upstream
+
+- Community is a good source of piecemeal content.
+
+- Help organize and curate content.
+
+- Help from content strategy and plan.
+
+- Connect writers to SMEs.
+
+- Don't do it by yourself! Create a community. But:
+
+    - Don'y treat your community as unpaid workers.
+
+### Content Strategy in a Box
+
+You can devise a strategy in a doc sprint.
+
+Analyze your audience:
+
+- Split your audience into 3-5 segments. Segments should cover every reader. e.g., administrators, 3rd-party developers, contributors to the project, etc
+
+- In each segment, define 3-5 samples:
+
+    - Talk about specific needs and circumstances
+
+    - Samples can't possibly cover every reader
+
+User stories can be helpful, e.g. "As a ________, I want to _______ so I can _______." Shaun started [@jediuserstories](https://twitter.com/jediuserstories).
+
+From user stories, you can assemble the documentation from the bottom up.
+
+- Create topics from user stories.
+
+- Do card sorts and other exercises to put topics in categories.
+
+- Categories, not linear narrative.
+
+- You will always need to add more topics than your user stories.
+
+- Remember that topics will be reassembled downstream.
+
+Shaun's Twitter handles:
+
+@shaunm
+
+@openhelpconf
+
+@gnome
+
+@projectmallard
