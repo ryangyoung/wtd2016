@@ -231,3 +231,48 @@ Shaun's Twitter handles:
 @gnome
 
 @projectmallard
+
+## [Copy That: Helping Your Users Succeed with Effective Product Copy](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-sarah-day)
+
+Speaker: [Sarah Day](https://twitter.com/scribblingfox)
+
+Product copy is anything that appears on a page that isn't "content." It's documentation for people who don't read documentation.
+
+### Best Practices
+
+Sarah's suggest best practices for product copy:
+
+- Product copy needs to be sorted.
+
+- Product copy should answer three questions because "writing is easier when you have a system":
+
+    - What does this do? This is covered by  placeholder text in links and buttons.
+
+    - Why would someone want to do this?
+
+    - How to do this?
+
+Product copy is heavily contextual, even more so than documentation. For example, the hint in FB showing that someone is typing a reply to your post is helpful.
+
+With product copy, you need to help users make decisions. For example, "Delete" when deleting instead of "OK."
+
+"Speak to the user's experience, not business cases." You have to use precise language. Apps that said "Free" is a good example. Now they say "Get." Other examples:
+
+- Don't say "request app from server"
+- Say: "download app"
+
+Sarah told a story of an engineer who wanted to use the term "snatch" to describe downloading data to a phone.
+
+### Workflow Management
+
+Understanding workflows is very important. You have to anticipate what information users will need and when they'll need it. IFTTT has text that says "min 6 characters" in the login screen: it doesn't wait for you to fail. Another example from IFTTT is making "This" a link with the text "click this to get started," which softly directs non-technical users.
+
+GitHub incorporates marketing content into its onboarding screens. "Unlimited free repos" is a way to make users feel that they're getting something extra.
+
+"Faciliate choices, don't disrupt."
+
+### Scaling
+
+Content strategy scaling is similar to technical documentation scaling. You need to work with different teams across the company. This usually involves breaking down silos.
+
+To internationalize your content, use fewer words and make sure the words you use aren't colloquial. 
