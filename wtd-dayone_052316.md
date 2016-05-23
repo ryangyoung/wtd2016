@@ -384,4 +384,6 @@ Centralized manuals are no longer sufficient. Documentation is often most useful
 
 Micro-copy is important because it helps guide users. Popups and tooltips are also important and useful. Guided tours and walkthroughs are other patterns that are useful. See <https://walkhub.com>. Yet another pattern that's helpful is help centers. See: <https://embedthedocs.com>
 
-Clippy, Kristof says, was a good idea poorly implemented. He wants to bring him back, but with AI. You could use marketing technology for documentation purposes. If you know a user is a developer, you can show them regular expressions; or, if the user is an editor, show them editorial-related content. 
+Clippy, Kristof says, was a good idea poorly implemented. He wants to bring him back, but with AI. You could use marketing technology for documentation purposes. If you know a user is a developer, you can show them regular expressions; or, if the user is an editor, show them editorial-related content.
+
+See <bit.ly/AI-DOCS>
