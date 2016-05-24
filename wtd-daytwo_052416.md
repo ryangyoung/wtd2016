@@ -215,4 +215,54 @@ To start documenting things "just in time":
 - Create a systematic process
 - Document it fast
 - Be a champion
-- Let go. These quick articles don't have to be perfect. 
+- Let go. These quick articles don't have to be perfect.
+
+## [Code the Docs: Interactive Document Environments](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-tim-nugent)
+
+Speakers: [Tim Nugent](https://twitter.com/the_mcjones) and [Paris Buttfield-Addison](https://twitter.com/parisba)
+
+Tim and Paris teach coding and focus on Swift and Jupyter. They have tried to create packages where people can code, read  docs, and their own notes.
+
+Swift is a new language developed by Apple, introduced 2 years ago.
+
+Swift playgrounds are:
+
+- Interactive coding environment
+- Each statement is evaluated and displayed
+- designed for protoyping
+
+Python Notebooks do essentially the same thing as Swift playgrounds. They're designed for academic and scientific documentation. This is being replaced by Jupyter, which is a successor to IPython. Jupyter supports multiple languages.
+
+They showed a demo of a playground. Here's an example from Apple: [Newton's Cradle](https://developer.apple.com/swift/blog/?id=35)
+
+Here's an example of a Jupyter playground: [Regex Golf](https://www.oreilly.com/learning/regex-golf-with-peter-norvig)
+
+Strengths of these things:
+
+- Code and docs literally together
+- And can have notes from the user
+- Can change things on the fly
+- Mixed media: code, docs, and notes
+
+Weaknesses:
+
+- Only MD and HTML
+- Kinda crashy
+- Limited language/framework support
+- Doesn't hook into docs tools
+- Only really works for narratives
+
+What's next?
+
+- Boffins will fix the tech
+- It will be easier to add in new languages and projects
+- This will replace books and articles
+- Better support for non-narrative documentation
+- Better integration of video and screensharing
+
+To learn more:
+
+- Download Xcode, if on Mac
+- If not, try Jupyter Notebook
+
+<https://lonely.coffee>
