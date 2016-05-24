@@ -387,3 +387,15 @@ Micro-copy is important because it helps guide users. Popups and tooltips are al
 Clippy, Kristof says, was a good idea poorly implemented. He wants to bring him back, but with AI. You could use marketing technology for documentation purposes. If you know a user is a developer, you can show them regular expressions; or, if the user is an editor, show them editorial-related content.
 
 See <bit.ly/AI-DOCS>
+
+## [Writing So Your Words are Read](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-tracy-osborn)
+
+Speaker: [Tracy Osborn](https://twitter.com/limedaring)
+
+Tracy has a background in design and computer science. She wrote a couple of books about Django and Python. She started [Wedding Lovely](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiPr-q5p_HMAhWE64MKHUhGBhcQFggcMAA&url=http%3A%2F%2Fweddinglovely.com%2F&usg=AFQjCNH4vfOe7P--C3ruNkdaQWyyAbhbYA&sig2=8OAqAOjLLLp0eYTpvKPyGA&bvm=bv.122676328,d.amc). She wrote the books for other people like her who haven't programmed before. She still feels like a newb in a lot of ways and not the expert she is. For example, she doesn't use the term ORM in her programming. A lot of documentation is written by experts for other experts and that ends up excluding potential new users.
+
+Best practices:
+
+- Your readers aren't you.
+- Write like a human, not a machine.
+- 
