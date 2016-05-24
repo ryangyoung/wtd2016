@@ -68,3 +68,54 @@ Read as widely as possible. Read everything. Even disconnected things might insp
 - *The Seven Basic Plots* by Christopher Booker
 
 - *On Writing* by Stephen King
+
+
+## [7 Values of Effective Technical Writing Teams](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-joao-fernandes)
+
+Speaker: [Joao Fernandes](https://twitter.com/joaofnfernandes)
+
+Joao is a skeptic and doesn't believe in the "7 habits" kind of trope.
+
+Tech writing is explaining complex information in a clear way. That may have been true, but users now don't expect to have to read docs to use apps and other product. So, the mission of tech writers now is to help build products that need no documentation. You should help the team build productsthat
+
+### Be the CEO of the Docs
+
+#### Create a Vision
+
+Provide a vision to the users. Add buttons, labels, tooltips and other hints that gently guide the user in the right direction. Provide in-app help and carefully think about what and where to document. You also have to decide what not to document. Define the information architecture of the docs.
+
+#### Pitch the Vision
+
+Inform other teams about what the vision is.
+
+#### Drive the Vision
+
+Schedule time do do strategic work to make sure that the vision is implemented.
+
+#### Ensure Others Follow the Vision
+
+You'll always be outnumbered by the rest of the company. This means that sometimes you have to push back and say no to others. If you don't you end
+
+### Know the Market
+
+You can't only know your audience anymore. You have to know the market to udnerstand what "pain points" your company is trying to solve. You also have to know the product and the users to be able to determine what to document, e.g. whether something is worth documenting at all. If you don't, you won't be able to pitch your vision.
+
+### Ask Why
+
+People tell tech writers what to do all the time. Tech writers rarely ask why. They should. If you don't, you can't prioritize, share your roadmap, and you won't have any time for strategic work. And you might end up fooling yourself.
+
+### Perfection Takes Time
+
+Create, ship, iterate. Apply the 80/20 rule.
+
+### Be Proactive
+
+It's easy not to be proactive. There are a lot of excuses: no time, no resources, management won't let you, people ignore you, that's not your job description, and so on. Designers faced this same problem. But they adapted and now they have more influence and budget and are involved early and intensely in projects.
+
+### Treat Words as Tools
+
+A programming language is a tool. Natural languages are also tools. The latter are deeply imperfect tools. Language is often insufficient to convey the required information. As with JavaScript, you can modify natural language. If you're too tied to style guides and best practices, you might be doing art.
+
+### Share Knowledge
+
+Instead of complaining about the poor writing of others, effective tech writers empower others to write and make changes. You can do this through blog posts, style guides, and one-on-one sessions. 
