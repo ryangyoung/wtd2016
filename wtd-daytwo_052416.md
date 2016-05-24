@@ -4,6 +4,8 @@
 
 Speaker: [Thursday Bram](https://twitter.com/thursdayb)
 
+Slides [here](http://www.thursdaybram.com/what-writing-fiction-will-teach-you-about-writing-documentation).
+
 Fiction books are popular. Everyone, even tech writers, read fiction, not documentation, for fun. [Elmore Leonard's rules for writing fiction](https://www.writingclasses.com/toolbox/tips-masters/elmore-leonard-10-rules-for-good-writing) can apply to documentation as well, if they're modified a bit.
 
 1. Never start a piece of documentation with a general description of your immunity or ecosystem.
@@ -162,4 +164,18 @@ Being a technical writer means being vulnerable because you need to potentially 
 
 Make a plan. What is the goal of your career and/or projects. Create some kind of roadmap. Do research to support your plan. A lot of times, other people have already solved your problem. Research can also pose good questions to you about your docs. Even with a plan, though, you need to be flexible because, well, things change.
 
-Share your work--with everyone. Read out loud to your dog (or cat). Get feedback from the person who scares you the most. Practice design critique: identify stakeholders and goals, then gather feedback. Expect positive feedback because "you don't write shit." But be prepared for negative feedback. You probably have imposter syndrome. That's ok. Everyone does. Believe in yourself and don't be brought down by your worst version of yourself. It's important to talk about adversity because nothing is perfect, not your draft, not the feedback, not your response to the feedback, nothing. "You were already brave" by being a technical writer "on the road." 
+Share your work--with everyone. Read out loud to your dog (or cat). Get feedback from the person who scares you the most. Practice design critique: identify stakeholders and goals, then gather feedback. Expect positive feedback because "you don't write shit." But be prepared for negative feedback. You probably have imposter syndrome. That's ok. Everyone does. Believe in yourself and don't be brought down by your worst version of yourself. It's important to talk about adversity because nothing is perfect, not your draft, not the feedback, not your response to the feedback, nothing. "You were already brave" by being a technical writer "on the road."
+
+## [CSAT- What's That?](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-betsy-roseberg)
+
+Speaker: Betsy Roseberg
+
+CSAT stands, here, for "customer satisfaction." Betsy works at New Relic. They have a comment box in their publicly available docs. They do get a lot of un-useful comments, like "**Was this document helpful?** No. **Comments:** no thamks. i am busy." Or: "**Comments:** More Pandas."
+
+However, the majority of comments *are* useful. An example is that the command did not work and it caused errors. They reviewed the doc with an SME and udpated the command, which was out of date. For another one, a commenter requested documentation about a specific command. Or that a header should use underscores instead of dashes.
+
+Reviewing the comments doesn't really take that much time, especially if you distribute the work among the team. New Relic rotates review duty to different writers each week. They get comments about much more than the docs, like the UI and UX of the product and the functionality of the doc site, which is just as important.
+
+Yes/No data is also useful by signifying how useful the doc is. One page got all "No" votes and it turned out that the reason for that was an issue with the UI (it was missing the gear icon the docs said to click). It helps to prioritize your work. If a page has 950+ views and 6 "No" votes, that's something you should work on.
+
+Next steps for New Relic include implementing OAuth data, following users as they look at the docs, and redesigning the site based on CSAT data. 
