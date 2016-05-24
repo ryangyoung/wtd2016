@@ -266,3 +266,29 @@ To learn more:
 - If not, try Jupyter Notebook
 
 <https://lonely.coffee>
+
+## [Documentation with Human Connection](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-hannah-gilberg)
+
+Speaker: Hannah Gilberg
+
+Hannah works at Navis, in Oakland. They have over 10k pages of documentation. They were also tasked with creating videos. Hannah realized that so much information did not equate to communication. One task of the videos was to provide product overviews that would answer who, what, why, when, and where.
+
+You can only measure effective writing by its effect, not by looking at it head on. Hannah found *Writing Without Teachers* by Peter Elbow. Elbow started at MIT, where he helped engineers write essays. He realized that his comments were not determined by "professional matters of style" like "diction, paragraphing, organization."  He developed 3 pillars of engaging writing:
+
+- Free writing
+- Summarizing
+- Peer review
+
+These could be roughly equivalent to Agile methodology.
+
+But, wait: how does free writing work with technical documentation? If you're too timid when writing technical documentation, you might leave out important information that the user will fill in herself. So, try to write a messy draft of the documentation. Just get some words on paper to start with. This won't be the final draft, of course, which will go through a review process. She provided an example of what she considered "connected" writing from AutoDesk and referenced *The Important Thing* by Margaret Weiss Brown.
+
+Once you have a draft, it's time for a peer review. In peer reviews, you should:
+
+- Read for voice—what is the tone? Is it human? Robotic? Uncertain?
+- Movies of the mind. Report what occurred to you while reading the text. Like MST3K. Sort of like a free-form association with the text.
+- Summarizing and Sayback
+
+You could distribute these different techniques amongst the team.
+
+What are the results of these techniques? One writer said that she understood the features better than she did before. 
