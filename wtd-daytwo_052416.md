@@ -151,3 +151,15 @@ At Ruthie's current company, new engineers can get code running in a couple of h
 4. At every inflection point, reevaluate, rinse, repeat.
 
     It's important to change things as your organization changes.
+
+## [We're Not in Kansas Anymore: How to Find Courage while Following the Technical Doc Road](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-christy-lutz)
+
+Speaker: [Christy Lutz](https://twitter.com/canncrochet)
+
+When you're traveling down the technical doc road, your team (QA, support, etc) are your friends. You should talk to your friends--at standups, at other meetings.
+
+Being a technical writer means being vulnerable because you need to potentially ask dumb questions in public. You might wear a lot of hats.
+
+Make a plan. What is the goal of your career and/or projects. Create some kind of roadmap. Do research to support your plan. A lot of times, other people have already solved your problem. Research can also pose good questions to you about your docs. Even with a plan, though, you need to be flexible because, well, things change.
+
+Share your work--with everyone. Read out loud to your dog (or cat). Get feedback from the person who scares you the most. Practice design critique: identify stakeholders and goals, then gather feedback. Expect positive feedback because "you don't write shit." But be prepared for negative feedback. You probably have imposter syndrome. That's ok. Everyone does. Believe in yourself and don't be brought down by your worst version of yourself. It's important to talk about adversity because nothing is perfect, not your draft, not the feedback, not your response to the feedback, nothing. "You were already brave" by being a technical writer "on the road." 
