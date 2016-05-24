@@ -178,4 +178,41 @@ Reviewing the comments doesn't really take that much time, especially if you dis
 
 Yes/No data is also useful by signifying how useful the doc is. One page got all "No" votes and it turned out that the reason for that was an issue with the UI (it was missing the gear icon the docs said to click). It helps to prioritize your work. If a page has 950+ views and 6 "No" votes, that's something you should work on.
 
-Next steps for New Relic include implementing OAuth data, following users as they look at the docs, and redesigning the site based on CSAT data. 
+Next steps for New Relic include implementing OAuth data, following users as they look at the docs, and redesigning the site based on CSAT data.
+
+## [Just in Time Documentation: Employing Agile Methodology to Create Living Documentation](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-brianne-hillmer)
+
+Speaker: [Brianne Hillmer](https://twitter.com/writebriwrite)
+
+Brianne works at Survey Gizmo as the "documentation coordinator." They had featurs guides, but the users didn't use them. Why not?
+
+- They require familiarity with terminology
+- Difficult to search
+- Difficult to use
+- Difficult to produce in time for release
+
+Brianne decided to make the docs team work on Agile, "just-in-time" schedule. Fro docs, that means creating just enough documentation just in time. What ends up getting documented with this methodology? The overlap of a Venn diagram of:
+
+- What the software can do (this is where survey gizmo started, but it doesn't cover workflows)
+- What users wish to accomplish
+- What users can't figure out
+
+Brianne looked at the following sources of information to figure out what users couldn't figure out:
+
+- Support tickets.
+
+    She set up a process with support for figuring out whether the responses they were providing were generalizable. They use ZenDesk with a Zapier integration that writes to a Google Sheet: the support engineer only needs to check a checkbox. This resulted in documents that responded to the tickets' concerns: How do I? guides, changes to the UI, workarounds, and FAQs. It's important to monitor traffic after writing the docs: remove low-traffic docs, "gussy-up" high traffic docs. You also need to let customers know that you're doing this, through "new" labels and recently updated boxes. Continue getting and responding to feedback. Articles can be short and minimal.
+
+Things that Brianne learned:
+
+- It's OK to have a lot of content
+- Docs can be updated just in time
+- Document workarounds
+- **Documentation is its own product**
+
+To start documenting things "just in time":
+
+- Create a systematic process
+- Document it fast
+- Be a champion
+- Let go. These quick articles don't have to be perfect. 
