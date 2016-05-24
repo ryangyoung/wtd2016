@@ -118,4 +118,36 @@ A programming language is a tool. Natural languages are also tools. The latter a
 
 ### Share Knowledge
 
-Instead of complaining about the poor writing of others, effective tech writers empower others to write and make changes. You can do this through blog posts, style guides, and one-on-one sessions. 
+Instead of complaining about the poor writing of others, effective tech writers empower others to write and make changes. You can do this through blog posts, style guides, and one-on-one sessions.
+
+## [Move Fast and Document Things: Strategies for Writing Internal Docs at Fast-Moving Organizations](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-ruthie-bendor)
+
+Speaker: [Ruthie BenDor](https://twitter.com/unruthless)
+
+Ruthie is an engineer, not a technical writer. She's worked at a lot of different organizations of all types. Most companies focus on external technical docs, the typical manuals you expect. But internal technical docs are important, too. They include: READMEs, wikis and other things like that. They are the materials you create for your colleagues and for your future self.
+
+Ruthie told a story about working at a slow-moving non-profit. Before she left, she wrote tons of documentation about how everything works in the two months before her departure. That was the right approach for that organization because they wanted software to last as long as possible.
+
+She then told another story about working at a digital agency, where she was creating prototypes, not production software, which was the goal of the agency. Ruthie didn't write much internal documentation there, only the minimum amount needed to get to "next Tuesday." Technical docs there weren't important because the software wasn't meant to last.
+
+Ruthie then joined a startup where she assumed that technical docs would be important for, you know, shipping product. But that turned out to be a bad assumption. Most pojects had empty wiki pages and "why bother reading mes." At one point, she got into a Git mess that took two senior engineers over an hour to detangle.
+
+### Four Simple Steps for Writing Internal Docs at Fast-Moving Orgs
+
+At Ruthie's current company, new engineers can get code running in a couple of hours, usually before lunch on the first day.
+
+1. Figure out what's broken.
+
+    What wasn't broken in Ruthie's case  were the tools: they used CI, monitoring, and banned deploys after 4pm on Fridays. Co-workers were helpful and great. What was broken was the perception of internal technical docs: people thought their value depreciated too quickly to be worth it. Also, there was a presumption of homogenous technical backgrounds and shared institutional knowledge. There was also no unambiguous "right" way to write internal docs. Where the docs should live was not defined, so they were all over, in emails, post-its, photos of whiteboards, etc etc.
+
+2. Figure out why your organization will care about fixing what's broken.
+
+    The organization might not care about onboarding new staff. They might care about creating the product instead. The "bus factor" might not be enough to get an organization to care about internal technical docs because, if you could predict layoffs, you'd be writing your resume, not docs. Ruthie talked to engineers about what they were working on and found out that they cared about technical docs because they valued learning from each other. What and how you document things is a reflection of company culture.
+
+3. Couch your solutions in the organization's value.
+
+    "This is the fun part." You're trying to get the results you want with the materials you have--in other words, hacking in the best sense of the word. This is dependent on your organization's values and culture. The best way might be lunch and learn talks or it could be whitepapers. It just depends.  
+
+4. At every inflection point, reevaluate, rinse, repeat.
+
+    It's important to change things as your organization changes.
