@@ -291,4 +291,47 @@ Once you have a draft, it's time for a peer review. In peer reviews, you should:
 
 You could distribute these different techniques amongst the team.
 
-What are the results of these techniques? One writer said that she understood the features better than she did before. 
+What are the results of these techniques? One writer said that she understood the features better than she did before.
+
+## [Atlassian: My Information Experience](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-daniel-stevens)
+
+Speaker: [Dan Stevens](https://twitter.com/dan_stevens9190)
+
+### My (Dan's) Path to Atlassian
+
+He started in health care, where he learned to observe. He learned about rhetoric at University of Minnesota. At Medtronic, he learned that details are very important.
+
+### From QA to Design
+
+At Atlassian, they developed a culture where information is part of the experience. They've expanded the tea with researchers, developers, and designers. And they've learned to share their skills and learn from each other. They had to because they became part of the IX team, which is part of the design organization.
+
+#### Frustrations
+
+Adopting new ways of thinking has been hard. So has staying focused on providing great docs. They've had to figure out what their team is in their new world.
+
+#### Hopes
+
+They hope that everyone who delivers information is telling the same story and thinking about it in relation to all the other available information, from blog post to docs to support doc, etc. They want to combine design, research, data analytics, and great technical writing. They want to deliver amazing informarion experience.
+
+### Overcoming Resistance to Change
+
+Change is hard, not impossible. You have to balance resistance and motivation. Reasons for resistance include being stuck in patterns, the belief that they can't do it, and the belief that if it's not broken, why fix it. To motivate people, Dan suggests staging changes so people can adjust.
+
+### Making Confluence Behave
+
+Design influence has influenced their existing tools. They use their own products and formatting guidelines. They "connect, innovate, and develop." They work with K15 and develop some of their own tools and integrate tools that help them measure and understand.
+
+### What IX Means to Me
+
+It's a new way to think about information, not just a fancy title. IX means:
+
+- Gathering data
+- Setting direction
+- Measuring results
+- Writing for platforms
+- Working like designers (card sorters and sparring)
+- Connecting stories (between products, for instance: Git tutorials for Bitbucket versus those for SourceTree)
+
+Atlassian wants to influence all the things. IX has contributed and influenced many different aspects of the company, including [Atlassian Design Guidelines](https://design.atlassian.com/). They've also defined tone and voice guidelines. IX and design are in love.  
+
+***You*** are valuable. So very valuable. 
